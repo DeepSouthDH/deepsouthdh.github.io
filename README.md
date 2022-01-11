@@ -5,7 +5,7 @@ beta release of DSDH jekyll site
 
 To get up and running:
  - first download the repo by navigating to a directory and cloning the repo (`git clone`).
- - make your changes and push your code! (`git add .` , `git commit -m 'your message'`, `git push`)
+ - make your changes and push your code! (`git add .` , `git commit -m 'your message'`, `git push origin master`)
  - now that you have an existing repo, you need to keep it updated. As others make changes you can keep your branch up-to-date with the main branch with `git pull`
 
 
