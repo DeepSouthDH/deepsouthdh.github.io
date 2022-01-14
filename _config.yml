@@ -28,7 +28,7 @@ twitter_username: DigitalMuw
 github_username:  DeepSouthDH
 
 # Build settings
-theme: jekyll-theme-clean-blog
+# remote_theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
 
