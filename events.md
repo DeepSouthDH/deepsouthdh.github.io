@@ -12,6 +12,8 @@ Join a panel discussion of the importance of letters in the history of women's l
 * Panelists: Dr. Suzanne Marrs, Dr. Bridget Pieschel, Angela Stewart
 * Workshop hosted by MUW Fant Memorial Library, Billups-Garth Archive at Columbus-Lowndes Public Library
 
+Registration required. Visit URL for more information.
+
 ## Institute (TBA)
 If you are interested in learning more about digitizing, sharing, and engaging with collections in dynamic ways, we are planning a multi-day institute for August 2022. Email deepsouthdh@gmail.com to learn more, and stay tuned for more information.
 
