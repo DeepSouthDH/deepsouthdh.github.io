@@ -5,15 +5,11 @@ layout: page
 background: '/assets/images/test.png'
 ---
 
-## Smith Papers documentation (TBA)
+## Smith Papers
 
-Tech notes about SP
+The Smith Papers Project is built using the [Collection Builder](https://collectionbuilder.github.io/) framework and hosted on Github pages. Please feel free to reach out with any further questions.
 
-## External Links (Collection Builder)
+## External Links
 
-Include more about CB 
-
-Here is information about external links
-- [Collection Builder](www.google.com)
-- [MUW](www.google.com)
-- [Jekyll](www.google.com)
+- [Collection Builder](https://collectionbuilder.github.io/)
+- [Jekyll](https://jekyllrb.com/)
