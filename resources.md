@@ -13,3 +13,4 @@ The Smith Papers Project is built using the [Collection Builder](https://collect
 
 - [Collection Builder](https://collectionbuilder.github.io/)
 - [Jekyll](https://jekyllrb.com/)
+- [Intro to Digital Studies Course page](https://github.com/hillaryAHR/LIB-201) - Digital humanities course taught at MUW using Smith Papers collection
