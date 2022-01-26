@@ -4,8 +4,9 @@ beta release of DSDH jekyll site
 ##### This is an in-progress Deep South DH jekyll page
 
 To get up and running:
+ - DAN: GIT INIT STUFF HERE PLZ K THX
  - first download the repo by navigating to a directory and cloning the repo (`git clone`).
- - make your changes and push your code! (`git add .` , `git commit -m 'your message'`, `git push origin master`)
+ - make your changes and push your code! (`git add .` , `git commit -m 'your message'`, `git push origin main`)
  - now that you have an existing repo, you need to keep it updated. As others make changes you can keep your branch up-to-date with the main branch with `git pull`
 
 
