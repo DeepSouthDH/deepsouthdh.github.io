@@ -4,11 +4,11 @@ permalink: /about/
 layout: page
 background: '/assets/images/test1.jpg'
 ---
-## Mission/story
-With a mission statement 
+## Mission
+The mission of Deep South DH is to provide a community of support and practice to people in Mississippi and nearby for digital humanities skills and projects. Borrowing from the Digital Humanities Research Institute, the guiding principles of Deep South DH are openness and accessible pedagogy, with the added emphasis on Southern storytelling. The richness of southern stories is meant to be shared, and digital landscapes -- with sharing and support -- can help us do that.
 
-
-The Beulah Culbertson Archives and Special Collections has made strides to become the state’s and the region’s center for Mississippi women’s history and leadership, through gathering records and metadata from other archives, through collection building, and through outreach to campus and local communities. As home to the Ellard-Murphree-Pilgreen-Smith Collection (“Smith Papers”), an extensive collection of more than 6,000 letters and approximately 70 diaries and ledgers from three generations of women in MS, we offer a uniquely comprehensive look at the events and cultural issues of 20th century women and their families in the state and abroad. 
+## Story
+Home to the Smith Papers, The Beulah Culbertson Archives and Special Collections has made strides to become the state’s and the region’s center for Mississippi women’s history and leadership, through gathering records and metadata from other archives, through collection building, and through outreach to campus and local communities. As home to the Ellard-Murphree-Pilgreen-Smith Collection (“Smith Papers”), an extensive collection of more than 6,000 letters and approximately 70 diaries and ledgers from three generations of women in MS, we offer a uniquely comprehensive look at the events and cultural issues of 20th century women and their families in the state and abroad. 
 
 (More information about this collection is available here.) -- NOTE: Need to include CB link
 
