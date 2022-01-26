@@ -2,7 +2,7 @@
 title: "Resources"
 permalink: /resources/
 layout: page
-background: '/assets/images/test.png'
+background: ![image of a cow exiting a mine]('/assets/images/mcj-photograph-EMPS-6-006.jpg')
 ---
 
 ## Smith Papers
