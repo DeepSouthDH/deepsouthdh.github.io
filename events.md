@@ -3,6 +3,7 @@ layout: page
 title: Events
 permalink: /events/
 background: '/assets/images/mcj-photograph-EMPS-6-003.jpg'
+alt: 'Sample alt text'
 ---
 
 ## 2022 Workshop

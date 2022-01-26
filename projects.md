@@ -2,7 +2,9 @@
 title: Featured Projects
 permalink: /projects/
 layout: page
-background: '/assets/images/test.png'
+background: '/assets/images/test.png' 
+alt: 'Sample alt text'
+
 ---
 ## Smith Papers Collection
 

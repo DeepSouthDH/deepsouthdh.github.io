@@ -3,6 +3,8 @@ title: About
 permalink: /about/
 layout: page
 background: '/assets/images/test1.jpg'
+alt: 'Sample alt text'
+
 ---
 ## Mission
 The mission of Deep South DH is to provide a community of support and practice to people in Mississippi and nearby for digital humanities skills and projects. Borrowing from the Digital Humanities Research Institute, the guiding principles of Deep South DH are openness and accessible pedagogy, with the added emphasis on Southern storytelling. The richness of southern stories is meant to be shared, and digital landscapes -- with sharing and support -- can help us do that.
