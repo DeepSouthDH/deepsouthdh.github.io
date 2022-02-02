@@ -8,7 +8,7 @@ alt: 'black and white image of men on a horse and buggy outside of the burned do
 
 ## 2022 Workshop
 ### March 4, 2022, 2:00 pm - 4:00 
-<p><img src="https://github.com/DeepSouthDH/deepsouthdh.github.io/blob/main/assets/images/DSDHpanel_22.png" alt="flyer with images of panelists" width="350" height="" >
+<p><img src="https://github.com/DeepSouthDH/deepsouthdh.github.io/blob/3dd44f6f61639eb0f918b30746610d27bbd8e154/assets/images/DSDHpanel_22.png" alt="flyer with images of panelists" width="350" height="" >
 </p>  
 
 “Keeping Up Our End of the Correspondence: Preserving Women’s Letters in the Digital Era,” 
