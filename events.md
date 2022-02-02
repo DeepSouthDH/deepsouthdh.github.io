@@ -8,7 +8,7 @@ alt: 'black and white image of men on a horse and buggy outside of the burned do
 
 ## 2022 Workshop
 ### March 4, 2022, 2:00 pm - 4:00 
-<p><img src="https://github.com/DeepSouthDH/deepsouthdh.github.io/blob/main/assets/images/DSDHPanel_2022.png" alt="flyer with images of panelists" width="250" height="">
+<p><img src="https://github.com/DeepSouthDH/deepsouthdh.github.io/blob/main/assets/images/DSDHPanel_22.png" alt="flyer with images of panelists" width="250" height="">
 “Keeping Up Our End of the Correspondence: Preserving Women’s Letters in the Digital Era,” 
 Join a panel discussion of the importance of letters in the history of women's lives, and learn about the importance and process of preserving these personal collections through digitization.
 * Panelists: Dr. Suzanne Marrs, Dr. Bridget Pieschel, Angela Stewart
