@@ -1,8 +1,8 @@
 ---
 title:  "Smith Papers Collection"
 date:   2021-12-15 20:51:21 -0500
-categories: Project
 author_profile: true
+background: '/assets/images/test.png'
 layout: post
 ---
 Deep South DH's first highlighted collection is the Smith Papers Collection.

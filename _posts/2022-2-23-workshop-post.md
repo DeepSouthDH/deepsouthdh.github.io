@@ -1,8 +1,9 @@
 ---
-title:  "Keeping Up Our End of the Correspondence: Preserving Women's Letters in the Digital Era"
+title:  "Keeping Up Our End of the Correspondence:"
+subtitle: "Preserving Women's Letters in the Digital Era"
 date:   2021-02-23 13:00:00 -0500
-categories: announcement
 author_profile: true
+background: '/assets/images/test.png'
 layout: post
 ---
 # March 4th, 2022, 2:00 - 4:00
