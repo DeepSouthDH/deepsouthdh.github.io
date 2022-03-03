@@ -16,7 +16,7 @@ Join a panel discussion of the importance of letters in the history of women's l
 * Panelists: Dr. Suzanne Marrs, Dr. Bridget Pieschel, Angela Stewart
 * Workshop hosted by MUW Fant Memorial Library, Billups-Garth Archive at Columbus-Lowndes Public Library
 
-Registration required for in-person and remote participation. For more information and registration links, visit [the MUW library events calendar](https://libreserves.muw.edu/event/8794765).
+Registration required for in-person and remote participation. For more information and registration links, visit [the MUW library events calendar](https://libreserves.muw.edu/event/8794765). A schedule of events for the program can be found [here](https://github.com/DeepSouthDH/deepsouthdh.github.io/blob/main/assets/images/DSDH%20panel%20program-online-small.pdf).
 
 ## Institute
 If you are interested in learning more about digitizing, sharing, and engaging with collections in dynamic ways, we are planning a multi-day institute for August 2022. Email deepsouthdh@gmail.com to learn more, and stay tuned for more information.
