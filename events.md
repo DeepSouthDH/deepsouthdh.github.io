@@ -20,7 +20,7 @@ A schedule of events for the program can be found [here](https://github.com/Deep
 
 To watch the recorded event, [click here](https://www.screencast.com/t/SMMn8vRT2CEo) to watch the Zoom recording. *Note: Navigate to different portions of the event with the Table of Contents on the left of the video.*
 
-If you attended the workshop or watched the tutorial, please fill out the evaluation here: https://muw.qualtrics.com/jfe/form/SV_1ZKdWuOOik6W2vc
+If you attended the workshop or watched the tutorial, please fill out the [online evaluation](https://muw.qualtrics.com/jfe/form/SV_1ZKdWuOOik6W2vc).
 
 ## Institute
 If you are interested in learning more about digitizing, sharing, and engaging with collections in dynamic ways, we are planning a multi-day institute for August 2022. Email deepsouthdh@gmail.com to learn more, and stay tuned for more information.
