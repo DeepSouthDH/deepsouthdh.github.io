@@ -22,6 +22,6 @@ To watch the recorded event, [click here](https://www.screencast.com/t/SMMn8vRT2
 
 If you attended the workshop or watched the tutorial, please fill out the [online evaluation](https://muw.qualtrics.com/jfe/form/SV_1ZKdWuOOik6W2vc).
 
-## Institute
-If you are interested in learning more about digitizing, sharing, and engaging with collections in dynamic ways, we are planning a multi-day institute for August 2022. Email deepsouthdh@gmail.com to learn more, and stay tuned for more information.
+## Upcoming Events
+If you are interested in learning more about digitizing, sharing, and engaging with collections in dynamic ways, let us know! We are planning a forthcoming in-person workshop in 2022. Email deepsouthdh@gmail.com to learn more, and stay tuned for more information.
 
