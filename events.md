@@ -9,7 +9,8 @@ alt: 'black and white image of men on a horse and buggy outside of the burned do
 ## 2022 Workshops
 
 ### October 21, 2022, 9:00 am - 5:00 pm 
-<img src="https://github.com/DeepSouthDH/deepsouthdh.github.io/blob/main/assets/images/DSDH2-flier.png?raw=true" alt="flyer with information about the workshop" width="350" height=""></p>
+<img src="https://github.com/DeepSouthDH/deepsouthdh.github.io/blob/main/assets/images/DSDH2-flier.png?raw=true" alt="flyer with information about the workshop" width="350" height="">
+
 **"Digitizing Your Own Collection"**
 
 Join us for a hands-on workshop to learn about accessible ways to scan, upload, and share your own collecitons online. We will be joined by University of Idaho librarians from the <a href="https://collectionbuilder.github.io/about.html"> Collection Builder team</a>. 
