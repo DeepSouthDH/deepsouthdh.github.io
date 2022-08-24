@@ -15,7 +15,7 @@ alt: 'black and white image of men on a horse and buggy outside of the burned do
 
 Join us for a hands-on workshop to learn about accessible ways to scan, upload, and share your own collecitons online. We will be joined by University of Idaho librarians from the <a href="https://collectionbuilder.github.io/about.html"> Collection Builder team</a>. 
 
-To register for this event and for more details on the schedule, location, etc., visit the registration link: https://libreserves.muw.edu/event/9584859.
+To register for this event and for more details on the schedule, location, etc., visit the <a href="https://libreserves.muw.edu/event/9584859">registration link</a>.
 
 
 ### March 4, 2022, 2:00 pm - 4:00
