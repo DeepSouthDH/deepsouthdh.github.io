@@ -6,6 +6,12 @@ background: '/assets/images/test.png'
 alt: 'Sample alt text'
 
 ---
+## <a href="http://dh-mdah.com/exhibits/">Digital Snaphosts</a>
+
+![Digital Snapshots Banner](http://dh-mdah.com/files/theme_uploads/b242e11cb8b8bdc6645610c7d5bd3454.png)
+
+<a href="http://dh-mdah.com/exhibits/">Digital Snapshots</a> uses free digital exhibits to help experts and non-experts alike navigate the Mississippi Department of Archives and History’s (MDAH) rich <a href="https://da.mdah.ms.gov/">Digital Archive</a>. Designed by the team at the University of Southern Mississippi’s <a href="https://www.usm.edu/digital-humanities/index.php">Center for Digital Humanities</a>, Digital Snapshots features well-known, massive collections like the <a href="http://www.dh-mdah.com/mssc/">Mississippi State Sovereignty Commission</a>, and smaller features like <a href="http://dh-mdah.com/exhibits/show/msdh/msdh">Mississippi State Department of Health Photographs</a>, the <a href="https://dh-mdah.com/exhibits/show/crowe/explore-the-crowe-album">Crowe Album</a> featuring the Mound Bayou community and beyond, and the <a href="http://dh-mdah.com/exhibits/show/1927-mississippi-river-flood/ms_river_flood">1927 Mississippi River Flood</a> collection. These exhibits include short contextualizing essays by historical experts, recommended readings, and lesson plans for K-12 educators. Digital Snapshots is especially valuable for non-experts, but they are also designed to aid college and secondary educators and researchers.
+
 ## <a href="https://smithpapers.github.io/">Smith Papers Collection</a>
 
 ### History of the project:
