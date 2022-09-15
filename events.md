@@ -11,12 +11,11 @@ alt: 'black and white image of men on a horse and buggy outside of the burned do
 ### October 21, 2022, 9:00 am - 5:00 pm 
 <img src="https://github.com/DeepSouthDH/deepsouthdh.github.io/blob/main/assets/images/DSDH2-flier.png?raw=true" alt="flyer with information about the workshop" width="350" height="">
 
-**"Digitizing Your Own Collection"**
+**"Sharing your Digital Collections"**
 
-Join us for a hands-on workshop to learn about accessible ways to scan, upload, and share your own collecitons online. We will be joined by University of Idaho librarians from the <a href="https://collectionbuilder.github.io/about.html"> Collection Builder team</a>. 
+Join us for an online workshop to learn about accessible ways to upload and share your own projects online. We will be joined by University of Idaho librarians from the <a href="https://collectionbuilder.github.io/about.html"> CollectionBuilder team</a>, who will lead participants through getting started and setting up CollectionBuilder to host an interactive, digital project for free. Open office hours with DeepSouthDH and CollectionBuilder team members will be hosted in the weeks following the workshop. 
 
 To register for this event and for more details on the schedule, location, etc., visit the <a href="https://libreserves.muw.edu/event/9584859">registration link</a>.
-
 
 ### March 4, 2022, 2:00 pm - 4:00
 <p><img src="https://github.com/DeepSouthDH/deepsouthdh.github.io/blob/main/assets/images/DSDHpanel_22.png?raw=true" alt="flyer with images of panelists" width="350" height="" ></p>
