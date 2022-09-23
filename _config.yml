@@ -21,7 +21,7 @@
 title: Deep South DH
 email: deepsouthdh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Founded in 2021, Deep South Digital Humanities is a hub of digital humanities and minimal computing in the South. It is run out of the Mississippi University for Women.
+  Founded in 2021, Deep South Digital Humanities is a hub of digital humanities and minimal computing in the South. It is run out of the Mississippi University for Women in partnership with the Digital Welty Lab at Millsaps College.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://deepsouthdh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DigitalMuw
