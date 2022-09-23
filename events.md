@@ -13,9 +13,9 @@ alt: 'black and white image of men on a horse and buggy outside of the burned do
 
 **"Sharing your Digital Collections"**
 
-Join us for an online workshop to learn about accessible ways to upload and share your own projects online. We will be joined by University of Idaho librarians from the <a href="https://collectionbuilder.github.io/about.html"> CollectionBuilder team</a>, who will lead participants through getting started and setting up CollectionBuilder to host an interactive, digital project for free. Open office hours with DeepSouthDH and CollectionBuilder team members will be hosted in the weeks following the workshop. 
+Join us for an online workshop for the digitally curious to learn about accessible ways to upload and share your own projects online. We will be joined by University of Idaho librarians from the <a href="https://collectionbuilder.github.io/about.html"> CollectionBuilder team</a>, who will lead participants through getting started and setting up CollectionBuilder to host an interactive, digital project for free. Open office hours with DeepSouthDH and CollectionBuilder team members will be hosted in the weeks following the workshop. 
 
-This event is free. To register for this event and for more details on the schedule, location, etc., visit the <a href="https://libreserves.muw.edu/event/9584859">registration link</a>.
+This event is free. To register for this event and for more details on the schedule, visit the <a href="https://libreserves.muw.edu/event/9584859">registration link</a>.
 
 ### March 4, 2022, 2:00 pm - 4:00
 <p><img src="https://github.com/DeepSouthDH/deepsouthdh.github.io/blob/main/assets/images/DSDHpanel_22.png?raw=true" alt="flyer with images of panelists" width="350" height="" ></p>
