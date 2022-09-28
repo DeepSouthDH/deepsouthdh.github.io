@@ -11,4 +11,4 @@ With the students in the Digital Studies Minor at Mississippi University for Wom
 
 This collection is also a sandbox for learning and experimenting with Digital Humanities tools and methods. Deep South DH hopes to share the tools, methods, and documentation from various derivative projects through workshops, websites, and an upcoming intensive institute.
 
-To see the Smith Papers Project site, visit SmithPapers.github.io <!--Insert URL when live-->.
+To see the Smith Papers Project site, visit https://smithpapers.github.io.
