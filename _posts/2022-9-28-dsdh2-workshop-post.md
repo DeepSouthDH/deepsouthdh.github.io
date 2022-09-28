@@ -1,7 +1,7 @@
 ---
 title:  "Sharing Your Digital Collections:"
 subtitle: "An online, hands-on workshop"
-date:   2022-02-23 13:00:00 -0500
+date:   2022-09-28 13:00:00 -0500
 author_profile: true
 background: '/assets/images/test.png'
 layout: post
